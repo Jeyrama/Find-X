@@ -33,3 +33,6 @@ Note:
   than it is about finding a mathematicial formula, 
   in fact there are no complex math formula involved.
 */
+
+
+// Solution
