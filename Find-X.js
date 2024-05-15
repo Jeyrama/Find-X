@@ -40,3 +40,12 @@ Note:
 const findX = n => n * n * (3 * n - 2);
 
 // or
+
+function findX(n) {
+  let x = 0;
+  for (let i = 0; i < 2*n; i++) {
+    if (i < n) x+=i*i+i
+      x += i*i;
+  }
+  return x;
+}
